@@ -55,3 +55,7 @@ int unknown_type()
 	return pre.get().x + post.get().x;
 }
 
+int main()
+{
+	return 0;
+}
